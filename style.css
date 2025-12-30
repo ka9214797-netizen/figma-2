@@ -1,0 +1,44 @@
+:root {
+    --primary: #1090CB;
+    --secondary: #1090CB1A;   
+    --solo: #F4F4F4;
+    --color: #08D3BB;
+}
+.btnn{
+    background-color: var(--primary);
+    color: white;
+    border: none;  
+}
+.view{
+    color: var(--primary);
+    border-color: var(--primary);
+    background-color: #fff;
+}
+.background{
+background-color: var(--secondary);
+}
+.pic{
+    background-color: #EFEAFF;
+}
+.picc{
+    background-color: #DAE6FF;
+}
+.blue{
+    color: var(--primary);
+}
+.color{
+    background-color: var(--primary) !important;
+}
+.solution{
+    background-color: var(--solo) !important;
+}
+.gap{
+    gap: 200px !important;
+}
+.butt{
+    background-color: var(--solo);
+    color: var(--primary);
+}
+.imgg{
+    background-color: var(--secondary) !important;
+}
