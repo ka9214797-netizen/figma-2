@@ -42,3 +42,39 @@ background-color: var(--secondary);
 .imgg{
     background-color: var(--secondary) !important;
 }
+.icon{
+    color: var(--primary) !important;
+}
+.first{
+    background-image: url(./images/Rectangle\ 6.png) !important;
+}
+.second{
+    background-image: url(./images/Rectangle\ 7.png) !important;
+}
+.third{
+    background-image: url(./images/Rectangle\ 8.png) !important;
+}
+.fourth{
+    background-image: url(./images/Rectangle\ 9.png) !important;
+}
+.bluee{
+    background-image: url(./images/Rectangle\ 13.png) !important;
+}
+html, body {
+    overflow-x: hidden;
+}
+.foot{
+    justify-content: center !important;
+}
+.ins{
+    background-color: black !important;
+}
+.seecond{
+    background-image: url(./images/Ellipse\ 3.png) !important;
+}
+.picc{
+    background-image: url(./images/Ellipse\ 3\ \(1\).png);
+}
+.thirdd{
+    background-image: url(./images/Ellipse\ 1.png) !important;
+}
